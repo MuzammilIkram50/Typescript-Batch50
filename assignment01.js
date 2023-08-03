@@ -1,0 +1,35 @@
+"use strict";
+// Print a Message like this:
+var Message = "Hey Muzammil ikram, I have started learning TYPESCRIPT.";
+console.log("Today Message is:\t", Message);
+// Store your Name in variable and print it:
+var Name = "Muzammil ikram";
+console.log("My Name is:\t", Name);
+// Store 10 numbers in different variables: 
+var num1 = 1;
+var num2 = 3;
+var num3 = 5;
+var num4 = 7;
+var num5 = 9;
+var num6 = 2;
+var num7 = 4;
+var num8 = 6;
+var num9 = 8;
+var num10 = 10;
+// Add all given numbers and print the SUM:
+var Add = num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num9 + num10;
+console.log("Sum of all numbers is:\t", Add);
+// Subtract all given numbers and print the Different:
+var Sub = num1 - num2 - num3 - num4 - num5 - num6 - num7 - num8 - num9 - num10;
+console.log("Subtract of all numbers is:\t", Sub);
+// Multiplying all given numbers and print the result:
+var Mul = num1 * num2 * num3 * num4 * num5 * num6 * num7 * num8 * num9 * num10;
+console.log("Multiplying of all the numbers is:\t", Mul);
+// Take two numbers and print the Division result:
+var Divide = num5 / num10;
+console.log("Division of two numbers is:\t", Divide);
+// Perform all four operations with given numbers and print the result:
+var MiscResult = num1 + num3 * num5 - num7 / num9;
+console.log("Combine Result1 is:\t", MiscResult);
+var MiscResult2 = num2 / num4 - num6 * num8 + num10;
+console.log("Combine Result2 is:\t", MiscResult2);
